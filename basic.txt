@@ -30,3 +30,5 @@ WHERE句で絞り込み
 ex)
 DELETE FROM books
 WHERE id=1;
+
+
